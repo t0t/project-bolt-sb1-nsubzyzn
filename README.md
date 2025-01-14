@@ -75,6 +75,18 @@ const postSchema = z.object({
    ```bash
    npm run dev
    ```
+npx next dev
+Esto generará una carpeta out con todos los archivos estáticos de tu sitio. El proceso funciona así:
+
+El comando ejecuta la build de Next.js configurada en next.config.js con output: 'export'
+Genera archivos HTML estáticos para todas las rutas
+Incluye los assets necesarios (JS, CSS, imágenes)
+La carpeta out contendrá tu sitio listo para producción. Puedes desplegar estos archivos en cualquier hosting estático como:
+
+Netlify
+Vercel
+GitHub Pages
+
 
 ## Testing
 

@@ -9,7 +9,7 @@ export default function CardGrid() {
   return (
     <section className="py-16 md:py-24 bg-neutral-50">
       <div className="max-w-[1200px] mx-auto px-4 md:px-8">
-        <h2 className="text-3xl md:text-4xl font-bold mb-12">Featured Work</h2>
+        <h2 className="text-3xl md:text-4xl font-bold mb-12">Base de datos</h2>
         {isLoading ? (
           <p>Loading posts...</p>
         ) : (

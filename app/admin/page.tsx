@@ -95,7 +95,7 @@ export default function AdminPage() {
       <main className="pt-32 pb-16 md:pt-40 md:pb-24">
         <div className="max-w-[1200px] mx-auto px-4 md:px-8">
           <div className="flex justify-between items-center mb-12">
-            <h1 className="text-4xl font-extrabold">Content Manager</h1>
+            <h1 className="text-4xl font-extrabold">Admin</h1>
             {(saveStatus || error || postsError) && (
               <p className={`text-sm ${
                 error || postsError ? 'text-red-500' : 'text-green-500'
