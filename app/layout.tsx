@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Minimalist Design Studio',
-  description: 'Creating beautiful digital experiences with minimalist design principles',
+  title: 'Notas par acordarme',
+  description: 'Bitácora de notas para acordarme de cosas',
 };
 
 export default function RootLayout({
