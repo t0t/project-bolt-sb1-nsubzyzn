@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Design",
+      "slug": "design"
+    },
+    {
+      "id": 2,
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "id": 3,
+      "name": "Composition",
+      "slug": "composition"
+    }
+  ]
+}

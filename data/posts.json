@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Minimalist Design Principles",
+      "excerpt": "Exploring the core principles of minimalist design and how to apply them.",
+      "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 2,
+      "title": "Typography in Modern Web",
+      "excerpt": "How typography shapes the modern web experience and user interface design.",
+      "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&q=80",
+      "category": "Typography"
+    },
+    {
+      "id": 3,
+      "title": "Space and Composition",
+      "excerpt": "Understanding the importance of white space and composition in design.",
+      "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&q=80",
+      "category": "Composition"
+    }
+  ]
+}
