@@ -5,9 +5,9 @@ export type Post = {
   id: number;
   title: string;
   excerpt: string;
+  content: string;
   image: string;
   category: string;
-  content?: string;
   createdAt?: string;
 };
 
